@@ -1,1 +1,1 @@
-# bliss-devfest
+# BLISS - The App
