@@ -36,7 +36,7 @@ Our app makes use of Machine Learning to make all the selections for you accordi
 
 Start your day with Yoga and exercise then treat yourself to a healthy breakfast and then maybe have fun with some inspiring stories and mind soothing music. Not to mention that you can enjoy memes and jokes as well on the app. :sun_with_face:
 
-![white](https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/white.png) <img src="https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/meme-flutter.jpeg" width="350" height="250"> 
+![white](https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/white.png) <img src="https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/hackathon.png" width="350" height="250"> 
 
 # Wanna know the features? 
 
