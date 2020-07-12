@@ -1,7 +1,7 @@
 # Mente-Medica
 Welcome to the repository of the project Mente-Medica by team Bit_Bots. :green_heart: ![Project logo](https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/logo.png)
 
-### Do check out our [Youtube]() video
+### Do check out our [Youtube](https://youtu.be/v94ZAB4r904) video
 
 Before you start running your mind to guess what does the project name even mean :thinking: (which is a great mental exercise BTW: blue_book:), we would like to share little statistics related to Mental Health with you -
 
