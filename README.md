@@ -3,7 +3,7 @@ Welcome to the repository of the project Mente-Medica by team Bit_Bots. :green_h
 
 ### Do check out our [Youtube](https://youtu.be/v94ZAB4r904) video
 
-Before you start running your mind to guess what does the project name even mean :thinking: (which is a great mental exercise BTW: blue_book:), we would like to share little statistics related to Mental Health with you -
+Before you start running your mind to guess what does the project name even mean :thinking: (which is a great mental exercise BTW :blue_book:), we would like to share little statistics related to Mental Health with you -
 
 ![Statistics](https://github.com/aymusbond/Devsoc-Devfest-2020/blob/master/Images/stats.png)
 
